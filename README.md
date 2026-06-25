@@ -44,4 +44,5 @@ Projeto full-stack desenvolvido em **Laravel** como requisito de avaliação aca
 
 
 ### 🔐 Área Restrita (Formulário de Notas)
-*(Apague esta linha e arraste o print do Formulário para cá)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8992cc52-f665-42d5-b0eb-00c15a935f40" />
+
